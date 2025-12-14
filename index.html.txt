@@ -8,14 +8,14 @@
 
  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 
- <title>Your Page Title Here</title> 
+ <title>Donald Knuth</title> 
 
  </head>  
 
 <body>
 
 <h1> <u>Who is Donald Knuth?</u> </h1>
-<img src="https://i.imgur.com/4r25xqA.jpeg">
+<img src="https://raw.githubusercontent.com/DJmobly241/Donald-Knuth/refs/heads/main/Screenshot%202025-12-14%20061650.png">
 
 <p> Donald Knuth is a legendary American computer scientist, mathematician, and professor emeritus at Stanford University. He is often called the "father of analysis of algorithms." </p>
 
@@ -39,4 +39,6 @@
 <p>Donald Knuth is known to be an obsessive perfectionist, with wit and dicipline unmatched by anyone else of his time, he famously sends a "reward check" for $2.56 (One hexadecimal dollar) to anyone who finds an error in his books, making them among the most fact checked books ever made. Along with this, he even stopped using email in 1990 to protect his long, uninterrupted blocks of time for 'deep, focused thinking'.</p>
 
 <h3> <u>Summary</u> </h3>
+
 <p>In summary, Donald Knuth is an exceptional mathematician and programmer, with problem solving skills almost unmatched in the modern day. He didn't only analyse algorithims; he built profound, enduring systems to solve real-world problems, leading to him being the recipient of the Turing Award, National Medal of Science, John von Newmann Medal and the kyoto prize. His inventions (TAOCP, TeX) have fundamentally shaped the practice and theory of computing and he has forever elevated programming to both a science and an art.</p>
+

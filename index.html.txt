@@ -1,0 +1,42 @@
+<!DOCTYPE html>  
+
+<html lang="en"> 
+
+ <head> 
+
+ <meta charset="UTF-8"> 
+
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+ <title>Your Page Title Here</title> 
+
+ </head>  
+
+<body>
+
+<h1> <u>Who is Donald Knuth?</u> </h1>
+<img src="https://i.imgur.com/4r25xqA.jpeg">
+
+<p> Donald Knuth is a legendary American computer scientist, mathematician, and professor emeritus at Stanford University. He is often called the "father of analysis of algorithms." </p>
+
+<h3> <u>What did he do for the internet?</u> </h3>
+
+<p> Donald Knuth was known for essentially building the foundation that contained fundamental rules and tools that made building a reliable, knowledge-sharing digital world even possible. He brought rigorous math skills to the space and demonstrated that programming wasn't just programming, it was an art, something to be optimised and documented. While he didn't create the web like <a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee" 
+   target="_blank" 
+   rel="noopener noreferrer"
+   title="Learn more about Tim Berners-Lee on Wikipedia">
+  Sir Tim Berners-Lee
+</a>, or create Transmission Control Protocol (TCP) like <a href="https://en.wikipedia.org/wiki/Vint_Cerf" target="_blank" rel="noopener noreferrer">
+  Vint Cerf,
+</a> he developed critical rules and knowledge that would allow the internet to grow to the size it has in such a short time frame.
+
+<h3> <u>What is <a href="https://www.amazon.com/Computer-Programming-Volumes-1-4B-Boxed/dp/0137935102" target="_blank" rel="noopener noreferrer">
+  The Art of Computer Programming
+</a>?</u> </h3>
+<p> The Art of Computer Programming is a comprehensive multi-volume work by Donald Knuth himself that covers programming algorithms and their analysis, it's considered as a dictionary and a foundational text in computer science, spanning multiple aspects of algorithms and programming techniques. It covers mathmatical topics like probability, logarithms, sums, informational topics like graphs, arrays, queues and lists and even the theory of context free languages, although planned for volume six. </p>
+
+<h3> <u>Personality</u> </h3>
+<p>Donald Knuth is known to be an obsessive perfectionist, with wit and dicipline unmatched by anyone else of his time, he famously sends a "reward check" for $2.56 (One hexadecimal dollar) to anyone who finds an error in his books, making them among the most fact checked books ever made. Along with this, he even stopped using email in 1990 to protect his long, uninterrupted blocks of time for 'deep, focused thinking'.</p>
+
+<h3> <u>Summary</u> </h3>
+<p>In summary, Donald Knuth is an exceptional mathematician and programmer, with problem solving skills almost unmatched in the modern day. He didn't only analyse algorithims; he built profound, enduring systems to solve real-world problems, leading to him being the recipient of the Turing Award, National Medal of Science, John von Newmann Medal and the kyoto prize. His inventions (TAOCP, TeX) have fundamentally shaped the practice and theory of computing and he has forever elevated programming to both a science and an art.</p>
